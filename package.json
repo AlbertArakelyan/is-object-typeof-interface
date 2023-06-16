@@ -1,0 +1,34 @@
+{
+  "name": "is-object-typeof-interface",
+  "version": "0.2.1",
+  "description": "A simple package which returns true when object is type of some specific interface or type.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertArakelyan/is-object-typeof-interface.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "typeof",
+    "instanceof",
+    "interface",
+    "type",
+    "object",
+    "js",
+    "javascript",
+    "is"
+  ],
+  "author": "Albert Arakelyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertArakelyan/is-object-typeof-interface/issues"
+  },
+  "publishConfig": {
+    "@albertarakelyan:registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/AlbertArakelyan/is-object-typeof-interface#readme"
+}
